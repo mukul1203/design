@@ -1,0 +1,1 @@
+# Generic component to deal with payments in any application
