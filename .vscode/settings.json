@@ -1,4 +1,6 @@
 {
+    "files.autoSave": "off",
+    "editor.formatOnSave": true,
     "files.associations": {
         "stdexcept": "cpp"
     }
