@@ -2,6 +2,14 @@
     "files.autoSave": "off",
     "editor.formatOnSave": true,
     "files.associations": {
-        "stdexcept": "cpp"
+        "stdexcept": "cpp",
+        "vector": "cpp",
+        "array": "cpp",
+        "future": "cpp",
+        "istream": "cpp",
+        "locale": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "variant": "cpp"
     }
 }
